@@ -65,8 +65,26 @@ public class SimpleEula {
 							mActivity.finish(); 
 						}
                     	
-                    });
-            builder.create().show();
+                    })
+                    .setOnCancelListener(new DialogInterface.OnCancelListener() {
+                        public void onCancel(DialogInterface dialog) {
+                            // Close the activity as they have declined the EULA
+                            mActivity.finish();
+                        }
+                    })
+                    //prevent back and search key
+                    .setOnKeyListener(new OnKeyListener() {
+			@Override
+			public boolean onKey(DialogInterface dialoginterface,
+					int keyCode, KeyEvent event) {
+				if ((keyCode == KeyEvent.KEYCODE_HOME)) {
+					return false;
+				} else {
+					return true;
+				}
+			}
+		   });
+            	   builder.create().show();
         }
     }
 	
