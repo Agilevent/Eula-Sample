@@ -2,6 +2,22 @@
 <resources>
     <string name="hello">You accepted the EULA!</string>
     <string name="app_name">Eula Sample</string>
-<string name="eula">Eula: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis, est in pulvinar varius, nulla metus suscipit enim, eu volutpat sem magna sed lacus. Donec tempor libero eget dui euismod eget luctus libero tempor. Quisque felis mauris, malesuada accumsan vulputate quis, sodales et nibh. Mauris tellus neque, interdum quis blandit sagittis, tincidunt at urna. Cras luctus feugiat metus, in sollicitudin felis laoreet sed. Mauris posuere mattis felis. Morbi enim odio, accumsan ac tincidunt pharetra, mattis sit amet turpis. Vivamus lobortis aliquet ante nec aliquet. Suspendisse potenti. Praesent rutrum condimentum ante et congue. In faucibus posuere arcu, ut congue sem dictum ac. Cras ante libero, pellentesque et fermentum ut, congue nec mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed euismod malesuada sapien ut eleifend. </string>
-<string name="updates">Upates in this version: Donec sollicitudin sodales turpis eget congue. Nulla facilisi. Proin facilisis eros vel mauris mollis tempus. </string>
+<string name="eula">The product is protected by Federal Copyright Law. [COMPANY NAME] retains the title to and ownership of the Product. You are licensed to use this Product on the following terms and conditions: \n\n
+
+LICENSE - The licensee is defined as the individual or company utilizing the Software Product. [COMPANY NAME] hereby grants the licensee a nonexclusive license authorizing the licensee to use the enclosed Product on one computer at a time. The licensee is also permitted to distribute this product to one, and only one web server to host the Program. Please contact [COMPANY NAME] if you require additional licenses. Use of this product by more than one individual or by anyone other than the licensee terminates, without notification, this license and the right to use this product.\n\n
+
+YOU MAY NOT: Distribute, rent, sub-license or otherwise make available to others the software or documentation or copies thereof, except as expressly permitted in this License without prior written consent from [COMPANY NAME]. In the case of an authorized transfer, the transferee must agree to be bound by the terms and conditions of this License Agreement.\n\n
+
+RESTRICTIONS: - You may use this Product in your business as long as:\n
+The software serial number and user must be registered with [COMPANY NAME] in order to receive support or distribution rights.\n
+You may not remove any proprietary notices, labels, trademarks on the software or documentation.\n
+You may not modify, de-compile, disassemble, reverse engineer or translate the software.\n\n
+
+US GOVERNMENT RESTRICTED RIGHTS - Use, duplication or disclosure by the United States Government is subject to restrictions as set forth under DFARS 252.227-7013 or in FARS 52.227-19 Commercial Computer Software - Restricted Rights.\n\n
+
+TERM - You may terminate your License and this Agreement at anytime by destroying all copies of the Product and Product Documentation. They will also terminate automatically if you fail to comply with any term or condition in this Agreement.\n\n
+
+LIMITED WARRANTY - This software and documentation are sold "as is" without any warranty as to their performance, merchantability or fitness for any particular purpose. The licensee assumes the entire risk as to the quality and performance of the software. [COMPANY NAME] warrants that the diskettes on which the Program is furnished will be free from any defects in materials. Exclusive remedy in the event of a defect is expressly limited to the replacement of diskettes. In no event shall [COMPANY NAME] or anyone else who has been involved in the creation, development, production, or delivery of this software be liable for any direct, incidental or consequential damages, such as, but not limited to, loss of anticipated profits, benefits, use, or data resulting from the use of this software, or arising out of any breach of warranty.
+</string>
+<string name="updates">Upates: in this version: Donec sollicitudin sodales turpis eget congue. Nulla facilisi. Proin facilisis eros vel mauris mollis tempus. </string>
 </resources>
